@@ -6,7 +6,8 @@ CareerCourse AD Azure Lab
 - Utilities used?
 
 - Environments used?
-  - 2 VM's / windows VM + Linux VM
+  - Windows 10
+  - Linux Server
 
 Visualization of what we'll be doing
 
