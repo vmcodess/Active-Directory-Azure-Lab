@@ -9,4 +9,5 @@ CareerCourse AD Azure Lab
   - 2 VM's / windows VM + Linux VM
 
 Visualization of what we'll be doing
+
 ![Visualization](images/organization.png)
