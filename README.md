@@ -4,10 +4,11 @@ CareerCourse Azure Lab
 <h3>Description</h3>
 Setting up osTicket.
 
-- Utilities used:
+
+Utilities used:
   - osTicket
 
-- Environments used:
+Environments used:
   - Windows 10
   - Linux Server
 
