@@ -1,5 +1,5 @@
 # Active-Directory-Azure-Lab
-<h1>CareerCourse Azure Lab</h1>  
+CareerCourse Azure Lab
 
 <h3>Description</h3>
 Setting up osTicket.
