@@ -4,7 +4,6 @@ CareerCourse Azure Lab
 <h3>Description</h3>
 Setting up osTicket.
 
-
 Utilities used:
   - osTicket
 
@@ -14,5 +13,6 @@ Environments used:
 
 
 
-#Visualization of what we'll be doing
+<!--Visualization of what we'll be doing
 #![Visualization](images/organization.png)
+-->
