@@ -82,7 +82,7 @@ This lab included hands-on simulation of real-world IT support workflows.
 - Routed to: SysAdmins department
 - Outcome: Ticket escalated and access controlled based on role permissions
 <img style="width:75%; height:auto;" alt="osticket1 1" src="https://github.com/user-attachments/assets/fc2fdac8-6b4c-472a-b33a-67ac638374d2" />
-<img width="965" height="782" alt="osticket1 2" src="https://github.com/user-attachments/assets/a97cc93d-b4a0-4987-8072-74faea81f65c" />
+<img style="width:75%; height:auto;" alt="osticket1 2" src="https://github.com/user-attachments/assets/a97cc93d-b4a0-4987-8072-74faea81f65c" />
 
 
 #### 🟡 Sev-B Service Request
